@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .title {
-    color: green;
+    color: blue;
     margin: 12px;
 }
