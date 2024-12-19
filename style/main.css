@@ -4,5 +4,6 @@
     box-sizing: border-box;
 }
 .title {
-    color: red;
+    color: green;
+    margin: 12px;
 }
